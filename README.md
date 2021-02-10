@@ -1,6 +1,6 @@
 ## uniglot
 
-A polyglot-wannabe programmer based on Seoul, Korea
+A polyglot-wannabe programmer based in Seoul, Korea
 
 ### What I Do
 
