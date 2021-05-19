@@ -16,5 +16,3 @@ A polyglot-wannabe programmer based in Seoul, Korea
 
 - My first name Yuneui(윤의) is pronounced as "uni" in "university"
 - [uniglot](https://en.wiktionary.org/wiki/uniglot): Yuneui + polyglot. When I try to learn too many languages simultaneously, I often feel like I'm still a monoglot 🤣
-
-**IMPORTANT**: Currently I'm not seeking job opportunities! Please don't email me for any job offers.
