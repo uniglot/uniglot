@@ -15,10 +15,9 @@ With these skills I can...
 
 **Container & Cloud Infrastructure**
 
-- `Docker`: write Dockerfile and deploy the built images.
 - `Kubernetes`: manage clusters with `kubectl` together with `helm`.
-- `Helm`: perform general tasks and write custom charts.
-- `AWS`: EKS, RDS, DynamoDB, ELB, SQS, etc.
+- `Helm`: perform general tasks and write custom charts to deploy `Docker` images on Kubernetes clusters.
+- `AWS`: EKS, RDS, DynamoDB, ELB, ECR, SQS, etc.
 - `Terraform`: provision and maintain all AWS resources mentioned above.
 
 **Natural languages**
