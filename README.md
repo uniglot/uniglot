@@ -23,10 +23,7 @@ With these skills I can...
 
 **Natural languages**
 
-- Korean: think and dream. (Native)
-- English: verbally vindicate a rejected Apple App Store review request.
-- Japanese: can have a long talk with a Japanese next to me in a 14-hour flight.
-- French: Read 'Le Petit Prince' and r/french subreddit.
+Korean, English, Japanese, French
 
 ### Links
 
@@ -36,4 +33,4 @@ With these skills I can...
 ### Trivia
 
 - My first name Yuneui(윤의) is pronounced as "uni" in "university"
-- [uniglot](https://en.wiktionary.org/wiki/uniglot): Yuneui + polyglot. When I try to learn too many languages simultaneously, I often feel like I'm still a monoglot 🤣
+- [uniglot](https://en.wiktionary.org/wiki/uniglot): Yuneui + polyglot. Though I'm trying to learn many languages simultaneously, I still feel like I'm still a monoglot 🤣
