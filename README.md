@@ -11,7 +11,7 @@ With these skills I can...
 - `Python`: build REST API server using `Django`. In terms of pure `Python`, most work can be done without reading documents. To figure out undocumented specifications of a 3rd-party library, I can read and understand code of the library.
 - `C`: earn a four-year undergraduate degree 👨🏻‍🎓 in CS. Still useful when I read the code of `PostgreSQL` or `CPython`.
 - `C++` and `Java`: solve LeetCode problems. Don't ask me too much 😇
-- `Go`: re-implement some of GNU coreutils. Go is must-have to understand implementation of `Kubenetes`, `Terraform`, and other related projects of them.
+- `Go`: re-implement some of GNU coreutils. Go is must-have to understand implementation of `Kubenetes`, `Terraform`, and other related projects to them.
 
 **Container & Cloud Infrastructure**
 
