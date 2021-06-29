@@ -1,6 +1,6 @@
 ## uniglot
 
-A polyglot-wannabe programmer based in Seoul, Korea
+A polyglot-wannabe cloud engineer based in Seoul, Korea. I'm going to working at AWS starting from July 26, 2021!
 
 ### Skills
 
