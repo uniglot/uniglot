@@ -7,8 +7,9 @@ Language-agnostic server-side & infrastructure engineer.
 - built server-side applications professionally using: (order by confidence, desc)
   - Python (Django, FastAPI, Flask)
   - Go (Gin, Fx)
-  - Node.js (Express.js - TypeScript, JavaScript)
   - JVM (Spring Boot - Kotlin, Java)
+  - Node.js (Express.js - TypeScript, JavaScript)
+  
 - several years of experience in containerized services and cloud-based infrastructure:
   - Container orchestration (Kubernetes)
     - Inter-container networking (ingress controllers, API gateways, service meshes, service discovery, etc.)
