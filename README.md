@@ -1,6 +1,6 @@
 ## uniglot
 
-Language-agnostic server-side & infrastructure engineer.
+Cloud infrastructure engineer, who loves learning languages
 
 ### I have...
 
@@ -22,6 +22,5 @@ Language-agnostic server-side & infrastructure engineer.
   
 ### Links
 
-- [Blog](https://www.uniglot.dev/)
+- [Blog](https://slashpage.com/uniglot/)
 - [LinkedIn](https://www.linkedin.com/in/laviande22/)
-- [Stack Overflow Profile](https://stackoverflow.com/users/10356310/uniglot)
