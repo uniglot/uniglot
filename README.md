@@ -1,24 +1,12 @@
-## uniglot
+## uniglot (Yuneui Jeong)
 
-Cloud infrastructure engineer, who loves learning languages
+Tech Lead | Cloud Infrastructure Expert
 
-### I have...
+### Top Skills
 
-- built server-side applications professionally using: (order by confidence, desc)
-  - Python (Django, FastAPI, Flask)
-  - Go (Gin, Fx)
-  - JVM (Spring Boot - Kotlin, Java)
-  - Node.js (Express.js - TypeScript, JavaScript)
-  
-- several years of experience in containerized services and cloud-based infrastructure:
-  - Container orchestration (Kubernetes)
-    - Inter-container networking (ingress controllers, API gateways, service meshes, service discovery, etc.)
-  - Modular management of manifests
-    - GitOps (single reposotiry as a single source of truth)
-    - With Helm and Argo CD.
-  - Public cloud services, especially AWS
-  - Infrastructure as Code (Terraform, Pulumi)
-  - CI/CD (Argo CD, Github Actions, Travis CI, Jenkins)
+- AWS and IaC, especially Terraform (publishing: [심각한 테라폼 중독입니다](https://product.kyobobook.co.kr/detail/S000216879450))
+- Kubernetes Network Stack (Gateway API, Cilium, eBPF, etc.)
+- Site Reliability Engineering (lecture: 패스트캠퍼스 - [실무 장애 대응 프로세스로 끝내는 장애율 0% 서비스 운영의 모든 것](https://fastcampus.co.kr/dev_online_outagehp))
   
 ### Links
 
